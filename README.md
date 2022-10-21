@@ -1,5 +1,5 @@
 # fixpoint
-log.txt : テストデータ
+log.txt : テストデータ\n
 result.txt : 実行結果
 prob1 : 設問1
 prob2 : 設問2
